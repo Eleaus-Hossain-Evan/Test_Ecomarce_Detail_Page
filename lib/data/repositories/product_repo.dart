@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:details_page/data/model/model.dart';
+import 'package:pattern_bloc/data/model/model.dart';
 
 abstract class ProductRepo {
   Future<ProductModel?>? getProducts();

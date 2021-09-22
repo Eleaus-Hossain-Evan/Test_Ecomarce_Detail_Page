@@ -1,12 +1,13 @@
-import 'package:details_page/bloc/product_bloc.dart';
-import 'package:details_page/bloc/product_event.dart';
-import 'package:details_page/bloc/product_state.dart';
-import 'package:details_page/data/model/model.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_image_slideshow/flutter_image_slideshow.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
+import 'package:pattern_bloc/bloc/product_bloc.dart';
+import 'package:pattern_bloc/bloc/product_event.dart';
+import 'package:pattern_bloc/bloc/product_state.dart';
+import 'package:pattern_bloc/data/model/model.dart';
 
 import "package:velocity_x/velocity_x.dart";
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';

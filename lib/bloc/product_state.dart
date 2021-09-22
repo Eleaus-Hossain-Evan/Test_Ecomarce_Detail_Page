@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
-import 'package:details_page/data/model/model.dart';
 import 'package:meta/meta.dart';
+import 'package:pattern_bloc/data/model/model.dart';
 
 abstract class ProductState extends Equatable {}
 
