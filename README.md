@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots:
 
-![Preview](/screenshots/Screenshot_1.jpg) ![Preview](/screenshots/Screenshot_2.jpg) ![Preview](/screenshots/Screenshot_3.jpg)
+![Preview](/screenshots/Screenshot_1.jpg "1st screenshot") ![Preview](/screenshots/Screenshot_2.jpg "2nd screenshot") ![Preview](/screenshots/Screenshot_3.jpg "3rd screenshot")
